@@ -1,9 +1,9 @@
 # Form
 
-Simple form with name, login, submit and html5 + js validation.
-40% done
+Simple form with name, email address, submit button in html5 + js validation.
+60% done
 
-##Created width
+##Created with
 - HTML5
 - CSS3
 - vanilla JS
